@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    max-width: 120px;
+    margin: auto;
+    font: 20px Ariel,sans-serif;
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color:#2587;
+    font-size: 30px;
+}
+h2{
+    color:#2435;
+    font-size: 30px;
+}
+main{
+    height: 70vh;
+}
+figure{
+   background-color:#8976; 
+   width: 45%;
+   height: 60%;
+   margin: auto;
+   padding: 10px;
+   
+}
+section{
+    clear: both;
+}
+figcaption{
+    font-weight: bold;
+    font-size: 22px;
+    color: #8976;
+    padding: 5px;
+}
+a{
+    color: #9876;
+    text-decoration: none;
+}
+a.hover{
+    color:#5678;
+
+}
+ul{
+    list-style-type: square;
+    line-height: 2;
+}
+header,footer{
+    background-color: #6754;
+}
+    
+
